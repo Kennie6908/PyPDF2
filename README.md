@@ -1,6 +1,6 @@
 # PyPDF2
 
-A bunch of PyPDF2 applications. 
+A bunch of PyPDF2 applications. Runs perfectly on Python 3.8
 
 1. PDFMetadata returns title, author, and number of pages. 
 
